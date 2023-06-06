@@ -1,6 +1,6 @@
 #Log into Azure
 #az login
-#az account set --subscription "c26f81cf-321b-4132-8526-3f97a01e19d2"
+#az account set --subscription "xxxxxx"
 # Setup Variables.
 $randomInt = Get-Random -Maximum 9999
 #$randomInt = 4140 #you can reuse same code if you know randomInt
